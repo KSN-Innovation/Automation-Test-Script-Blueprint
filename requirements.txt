@@ -1,6 +1,6 @@
-robotframework==6.1.1
-robotframework-seleniumlibrary==6.1.0
-robotframework-requests==0.9.5
-robotframework-faker==5.0.0
-pyyaml==6.0.1
-selenium==4.9.1
+robotframework
+robotframework-seleniumlibrary
+robotframework-requests
+robotframework-faker
+pyyaml
+selenium
